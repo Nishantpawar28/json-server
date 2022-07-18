@@ -105,5 +105,26 @@
             "email": "hvvh@gma.com",
             "password": "5645454"
         }
-    ]
+    ],
+    
+    "category" : ["General Management",
+                                    "Leadership and Strategy",
+                                    "Operations & Supply chain",
+                                    "Human Resources",
+                                    "Technology and Analytics",
+                                    "Finance & Accounting",
+                                    "Marketing & Sales",
+                                    "Business Law",
+                                    "Product Management", "Engineering"],
+    
+    "programs" : [
+                                    "IIM KashipurExecutive Master of Business Administration (Analytics)",
+                                    "IIM Kashipur Post Graduate Certificate Programme in General Management",
+                                    "IIM Indore Executive Programme in Global Business Management",
+                                    "IIM Kozhikode Professional Certificate Programme in Business Management",
+                                    "IIM Lucknow Accelerated Management Programme for Executives",
+                                    "IIM Indore Executive Post Graduate Certificate Programme in Management",
+                                    "IIM Kozhikode Professional Certificate Programme in Entrepreneurship and New Venture Creation",
+                                    "IIM Kozhikode Professional Certificate Programme in Entrepreneurship and New Venture Creation"
+                                ]
 }
